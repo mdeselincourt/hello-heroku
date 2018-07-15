@@ -10,7 +10,7 @@
   "license": "ISC",
   "engines": {
 	"node": "9.2.1"
-  }
+  },
   "dependencies": {
     "npm": "^6.2.0"
   }
