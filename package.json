@@ -5,14 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"start": "node index.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "engines": {
-	"node": "9.2.1"
+    "node": "9.2.1"
   },
   "dependencies": {
-    "npm": "^6.2.0"
+    "npm": "^6.2.0",
+    "pg": "7.4.3"
   }
 }
